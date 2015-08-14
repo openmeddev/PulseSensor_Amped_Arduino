@@ -7,7 +7,7 @@ This code:
 2) Fades an LED to User's Live HeartBeat
 3) Determines BPM
 4) Prints All of the Above to Serial
-
+5)Testing sensor
 Read Me:
 https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino/blob/master/README.md   
  ----------------------       ----------------------  ----------------------
